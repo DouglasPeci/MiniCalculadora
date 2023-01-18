@@ -9,10 +9,10 @@ programa
 
 	escreva("-------------------Mini Calculadora de dois números-------------------")
 
-	escreva("Digite o primeiro número: ")
+	escreva("Digite um número: ")
 	leia(numero1)
 
-	escreva("Digite o segundo número: ")
+	escreva("Digite outro número: ")
 	leia(numero2)
 
 	escreva("\nEscolha a operação que deseja efetuar: \n\n")
@@ -54,7 +54,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 816; 
+ * @POSICAO-CURSOR = 184; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
